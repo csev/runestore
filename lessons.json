@@ -1,0 +1,41 @@
+{
+  "title": "Python for Everybody (PY4E)",
+  "description": "Hello and welcome to my site where you learn Python even if you have no programming background.",
+  "modules": [
+    {
+      "title": "Installing Python",
+      "anchor": "install",
+      "icon": "fa-bicycle",
+      "description": "The first task is to work through the installation steps including installing Python and text editor.",
+      "references": [
+        {
+          "title": "Setting up the PythonLearn Environment in Microsoft Windows",
+          "href": "https:\/\/www.py4e.com\/software-win.php"
+        },
+        {
+          "title": "Setting up the PythonLearn Environment in Macintosh",
+          "href": "https:\/\/www.py4e.com\/software-mac.php"
+        }
+      ],
+      "lti": [
+        {
+          "title": "Autograder: Exercise 3.1",
+          "launch": "https:\/\/www.py4e.com\/tools\/pythonauto\/index.php",
+          "resource_link_id": "pythonauto_03_01"
+        },
+        {
+          "title": "Autograder: Exercise 3.3",
+          "launch": "https:\/\/www.py4e.com\/tools\/pythonauto\/index.php",
+          "resource_link_id": "pythonauto_03_03"
+        }
+      ]
+    },
+    {
+      "title": "Why Program?",
+      "anchor": "intro",
+      "icon": "fa-hand-o-right",
+      "description": "We learn why one ..."
+    }
+  ]
+}
+

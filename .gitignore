@@ -1,0 +1,11 @@
+.DS_Store
+config.php
+*.swp
+*.pyc
+__pycache__
+tsugi
+mod/*
+media/video
+media/audio
+
+*.sublime*
